@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/common-head :: common-head}"></head>
+<body>
+<div th:replace="~{fragments/common-header :: common-header}"></div>
+<main role="main">
+    <div class="container" style="margin-top: 20px;">
+        <div th:replace="~{fragments/common-messages :: common-messages}"></div>
+
+        <div class="row">
+            <div class="col-md-12 table-responsive">
+                <table class="table table-bordered">
+                    <thead class="table-info">
+                    <tr>
+                        <td colspan="2">TV Channel</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr th:each="tvChannel : ${tvChannels}">
+                        <td th:text="${tvChannel.name}"></td>
+                        <td>
+                            <a class="btn btn-primary" data-placement="top" data-toggle="tooltip"
+                               th:href="@{/start(id=${tvChannel.id})}"
+                               role="button"
+                               title="Start Stream">Watch</a>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</main>
+<script th:src="@{/webjars/bootstrap/5.3.2/js/bootstrap.min.js}" async></script>
+<script th:src="@{/webjars/font-awesome/6.4.2/js/all.js}" async></script>
+</body>
+</html>
