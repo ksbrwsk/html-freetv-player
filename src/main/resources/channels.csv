@@ -1,0 +1,159 @@
+id;name;url
+1;Das Erste HD;https://mcdn.daserste.de/daserste/de/master.m3u8
+2;ZDF HD;https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+3;3sat;https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+4;ARTE;https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+5;ALPHA;https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+6;ONE;https://mcdn.one.ard.de/ardone/hls/master.m3u8
+7;ZDFneo;https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+8;ZDFinfo HD;https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+9;Tagesschau 24;https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+10;Phoenix HD;https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+11;WDR HD;https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+12;SWR Baden-Würthemberg HD;https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+13;SWR Rheinland-Pfalz HD;https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+14;SR HD;https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
+15;NDR Niedersachsen HD;https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+16;NDR Schleswig-Holstein HD;https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+17;NDR Mecklenburg-Vorpommern HD;https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+18;NDR Hamburg HD;https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+19;BR Fernsehen Nord HD;https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+20;BR Fernsehen Süd HD;https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+21;MDR Sachsen-Anhalt HD;https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+22;MDR Sachsen HD;https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+23;MDR Thüringen HD;https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+24;MDR +;https://mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent2_ww@513991/master.m3u8
+25;HR HD;https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
+26;RBB Berlin HD;https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+27;RBB Brandenburg HD;https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+28;Radio Bremen TV;https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+29;Deutsche Welle TV Deutsch;https://dwamdstream106.akamaized.net/hls/live/2017965/master.m3u8
+30;KiKa;https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+31;Nickelodeon;https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_900.m3u8
+32;Servus TV;https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
+33;Welt der Wunder;https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+34;ANIXE HD;https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+35;health.tv;http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+36;Muxx.TV;https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/master.m3u8
+37;MyTVplus;https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+38;Red Bull TV;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+39;More than Sports TV;https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+40;OE24.TV;https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+41;WELT;https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+42;WELT News;https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
+43;Euronews deutsch;https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+44;Bild;https://bild.personalstream.tv/v1/master.m3u8
+45;DerAktionaer.tv;https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
+46;meteonews.tv (Schweiz);https://streaming.meteonews.net/hls/stream.m3u8
+47;Bundestag Kanal 1;https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+48;Bundestag Kanal 2;https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+49;Bundestag Kanal 3;https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+50;Bundestag Kanal 4;https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+51;Europe by Satellite Kanal 1;https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
+52;Europe by Satellite+ Kanal 2;https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
+53;a.tv (Augsburg);https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+54;ALEX Berlin;https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+55;allgäu.tv;https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+56;Baden TV;http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+57;BLKonline TV Burgenlandkreis (Sachsen-Anhalt);https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/master.m3u8
+58;Chemnitz Fernsehen;https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+59;Dresden Fernsehen;https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+60;ems TV;http://62.113.221.6/ev1tv-live/livestream/master.m3u8
+61;erzTV Erzgebirge;https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w585202401.m3u8
+62;Filstalwelle (Göppingen);http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8
+63;Franken Fernsehen;https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+64;Hannover 1;https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
+65;HauptstadtTV;https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+66;KabelJournal;https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+67;Kulturmd TV;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:kulturmd_high/master.m3u8
+68;L-TV;https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
+69;Lausitzwelle Fernsehen;https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd10/playlist.m3u8
+70;Leipzig Fernsehen;https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+71;Mainfranken.tv;https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/master.m3u8
+72;MDF 1;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+73;münchen.tv;https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+74;Niederbayern TV;https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/master.m3u8
+75;noa4 Hamburg HD;https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+76;noa4 Norderstedt HD;https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+77;nrwision;https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+78;Oberpfalz TV;https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+79;OFTV (Offenbach);https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=503585
+80;OK Dessau;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+81;OK Koblenz;https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
+82;Ok Ludwigshafen;https://s.ok54.de/oklu/livestream/playlist.m3u8
+83;OK Magdeburg;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-magdeburg_high/master.m3u8
+84;OK Merseburg;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_high/master.m3u8
+85;OK naheTV offener Kanal (Bad Kreuznach/Idar-Oberstein);https://s.ok54.de/nahetv/webstream/playlist.m3u8
+86;OK RheinLokal;https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+87;OK Salzwedel;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-salzwedel_high/master.m3u8
+88;OK Stendal;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-stendal_high/master.m3u8
+89;OK Trier;https://s.ok54.de/ott/webstream/playlist.m3u8
+90;OK Wernigerode;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wernigerode_high/master.m3u8
+91;Oldenburg eins TV;https://www.oeins.de/live/studio.m3u8
+92;Punktum SüdHarz;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+93;RAN 1;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/chunklist.m3u8
+94;RBW Wittenberg;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist.m3u8
+95;RBW Regionalfernsehen Bitterfeld-Wolfen;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist.m3u8
+96;RFH Regionalfernsehen Harz;https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/chunklist.m3u8
+97;Regio TV Bodensee;https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+98;Regio TV Schwaben;https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/master.m3u8
+99;Regio TV Stuttgart;https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+100;RFO;https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+101;rheinmaintv;https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+102;Rhein Neckar Fernsehen;https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+103;STUDIO 47;http://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+104;Sylt1;https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/master.m3u8
+105;TVA (Ostbayern);https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+106;tv.berlin";https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+107;TV Mittelrhein;https://live2.telvi.de/hls/tvm_hd720.m3u8
+108;TVO (Oberfranken);https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+109;TV38 - Fernsehen zwischen Harz und Heide;http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+110;Tide TV Hamburg;https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/chunklist_w350625857_b1600000.m3u8?ref=www.tidenet.de&seid=403020
+111;TV Ingolstadt;https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/master.m3u8
+112;Weser TV;https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/chunklist_w1389213573.m3u8
+113;Westerwald TV;https://live2.telvi.de/hls/wwtv_hd720.m3u8
+114;Seenluft24 Senftenberg;https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+115;ORF1;https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+116;ORF2;https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+117;ORF3;https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+118;ORFSport;https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+119;Dorf TV Linz;http://stream.openplayout.org/hls/dorf_high/index.m3u8
+120;FS1 HD - Freies Fernsehen Salzburg;http://stream.fs1.tv:8080/hls/webstream.m3u8
+121;M4TV;https://streaming.m4tv.at/live/ngrp:stream_all/master.m3u8
+122;Okto;https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+123;W24 TV;https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+124;Tirol TV;http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
+125;Tele Basel;https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/master.m3u8
+126;Tele Bärn;https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
+127;Tele M1 HD;https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/master.m3u8
+128;TeleBielingue;https://edge12.vedge.infomaniak.com/livecast/ik:telebielinguech/master.m3u8
+129;SDF (Suedtirol);https://live.ipstream.it/vb33/vb33.stream/master.m3u8
+130;Adria Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+131;Zwei Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+132;One Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+133;Folx Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+134;FolxSlo Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
+135;OneAdria Music Television;https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+136;Antenne VORARLBERG;https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+137;DELUXE MUSIC;https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+138;DELUXE MUSIC ROCK;https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+139;DELUXE MUSIC FLASHBACK;https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+140;DELUXE MUSIC DANCE;https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+141;DELUXE MUSIC RAP;https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+142;Schlager DELUXE;https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+143;Deutsches Musik Fernsehen;https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+144;Kronehit TV;http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+145;Musik_ONE;http://rtmp.one.by:1300
+146;Musik_ONE2;http://rtmp.one.by:2300
+147;MusicTop (Arg);http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+148;SWR Dasding Studio;https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+149;Radio21;https://live.creacast.com/radio21/smil:radio21.smil/master.m3u8
+150;RockTV;http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
+151;Sonus FM TV;https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
+152;Sky Folk TV (Mac);http://skyfolk.mk/live.m3u8
+153;T-eins;http://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+154;UNSERDING Studio;https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master.m3u8
+155;U TV (Rum);http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+156;Q Music Nl;https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+157;BR24;https://brevent.akamaized.net/hls/live/2028168/event_08/profile1/1.m3u8
+158;VISIT-X.tv;http://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8

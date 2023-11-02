@@ -1,0 +1,11 @@
+spring:
+  thymeleaf:
+    cache: true
+  threads:
+    virtual:
+      enabled: true
+  server:
+    compression:
+      enabled: true
+    http2:
+      enabled: true

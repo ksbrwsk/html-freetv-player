@@ -1,0 +1,30 @@
+<div th:fragment="common-jumbotron">
+    <div class="p-5 mb-4 bg-light rounded-3">
+        <div class="container-fluid py-5">
+            <h1 class="display-5 fw-bold">HTML TV Player</h1>
+            <h3>Simple HTML TV player (Germany, Austria, Swiss)</h3>
+            <form class="form-floating" id="tvChannel" method="POST" name="tvChannel"
+                  th:action="@{/start}" th:object="${tvChannel}">
+                <div class="form-row">
+                    <div class="col">
+                        <div class="form-floating mb-4">
+                            <div>
+                                <select th:field="*{id}" id="id">
+                                    <option th:each="tvChannel : ${tvChannels}"
+                                            th:text="${tvChannel.name}"
+                                            th:value="${tvChannel.id}">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="btn btn-primary btn-block" data-placement="top"
+                        data-toggle="tooltip"
+                        title="pr&uuml;fen">
+                    start &raquo;
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
