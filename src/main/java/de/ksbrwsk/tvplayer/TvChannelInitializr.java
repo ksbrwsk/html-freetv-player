@@ -41,9 +41,7 @@ public class TvChannelInitializr {
                 .map(this::createTvChannel)
                 .toList();
         this.tvChannelRepository.reset();
-        for (TvChannel tuple : tvcs) {
-            this.tvChannelRepository.addTvChannel(tuple);
-        }
+        tvcs.forEach(this.tvChannelRepository::addTvChannel);
         log.info("successfully loaded {} items from {}", this.tvChannelRepository.count(), DATA_FILE_NAME);
     }
 
