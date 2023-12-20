@@ -33,4 +33,6 @@ build/
 .vscode/
 
 .DS_Store
-
+src/main/resources/application-ssl.yml
+src/main/resources/keystore.jks
+```
