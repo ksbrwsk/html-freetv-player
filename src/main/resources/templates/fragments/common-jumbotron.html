@@ -7,7 +7,7 @@
                   th:action="@{/start}" th:object="${tvChannel}">
                 <div class="form-row">
                     <div class="col">
-                        <div class="form-floating mb-4">
+                        <div class="form-floating">
                             <div>
                                 <select th:field="*{id}" id="id">
                                     <option th:each="tvChannel : ${tvChannels}"

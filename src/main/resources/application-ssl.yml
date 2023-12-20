@@ -1,0 +1,16 @@
+spring:
+  thymeleaf:
+    cache: true
+  threads:
+    virtual:
+      enabled: true
+  server:
+    compression:
+      enabled: true
+    http2:
+      enabled: true
+    ssl:
+      key-store: classpath:keystore.jks
+      key-store-password: 8tung4SSL!
+      key-alias: ksbrwsk_de
+      enabled: true

@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>de.ksbrwsk</groupId>
 	<artifactId>html-freetv-player</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>html-freetv-player</name>
 	<description>html-freetv-player</description>
 	<properties>

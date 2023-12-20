@@ -27,3 +27,6 @@ Point your browser to
 http://localhost:8080
 ```
 to try out the player.
+
+docker build -t . html-freetv-player
+docker run -d --name html-freetv-player -p 9070:8080 html-freetv-player
