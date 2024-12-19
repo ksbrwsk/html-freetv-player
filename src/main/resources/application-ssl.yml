@@ -5,12 +5,13 @@ spring:
     virtual:
       enabled: true
   server:
+    port: 8080
     compression:
       enabled: true
     http2:
       enabled: true
-management:
-  endpoints:
-    web:
-      exposure:
-        include: health
+    ssl:
+      key-store: classpath:keystore.jks
+      key-store-password: 8tung4SSL!
+      key-alias: ksbrwsk_de
+      enabled: true
